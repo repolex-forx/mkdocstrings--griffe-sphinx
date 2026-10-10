@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/mkdocstrings/griffe-sphinx/commit/786711f1fe5f7c8c949fe4b3762e702e040c91de",
       "git:hexsha": "786711f1fe5f7c8c949fe4b3762e702e040c91de",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "0.3.1"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "0.3.1",
+      "repolex:parsedAt": "2026-10-10T22:43:42.750194+00:00"
     },
     {
       "@id": "https://repolex.ai/r/mkdocstrings/griffe-sphinx/commit/63933759c177fddf25f4b663e7c047ab9f0fa007",
